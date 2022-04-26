@@ -1,0 +1,9 @@
+
+Ticket Details
+
+Ticket Number: 17
+Ticket Price: 3000
+Ticket Type: Senior Citizen
+Ticket Time: 17:00
+Ticket Block: Middle Block
+____________________________________________________________________________________
